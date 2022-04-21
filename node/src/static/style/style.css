@@ -14,3 +14,11 @@ body form > * {
   padding: 0.2em 0.5em;
   margin: 0.2em 0.5em;
 }
+body form .commentsSection {
+  margin: 1.5 em 0;
+  border: 5px dashed red;
+}
+body form .commentsSection article {
+  border: 5px dashed yellow;
+  padding: 2em;
+}/*# sourceMappingURL=style.css.map */
