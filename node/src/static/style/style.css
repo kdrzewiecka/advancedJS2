@@ -1,0 +1,16 @@
+body {
+  background-color: coral;
+}
+body header {
+  display: flex;
+  align-items: center;
+}
+body form {
+  border: 2px dashed red;
+  display: flex;
+  flex-direction: column;
+}
+body form > * {
+  padding: 0.2em 0.5em;
+  margin: 0.2em 0.5em;
+}
