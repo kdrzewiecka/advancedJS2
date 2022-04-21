@@ -12,5 +12,14 @@ body{
       padding: .2em .5em;
       margin: .2em .5em;
     }
+
+    .commentsSection{
+      margin: 1.5 em 0;
+      border: 5px dashed red;
+      article{
+         border: 5px dashed yellow ;
+         padding:2em;
+      }
+    }
   }
 }
